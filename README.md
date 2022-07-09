@@ -34,13 +34,11 @@ I would describe myself in six words: enthusiastic developer, music lover, and c
 <table>
   <tr>
    <td>
-     <img src="https://github-readme-stats.vercel.app/api?username=kencodest&show_icons=true&theme=merko&hide_border=true" />
+     <img src="https://github-readme-stats.vercel.app/api?username=kencodest&show_icons=true&theme=dark&hide_border=true" />
    </td>
    <td>
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=kencodest&theme=merko&hide_border=true" />    
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=kencodest&theme=dark&hide_border=true" />    
    </td>
  </tr>
 </table>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kencodest&theme=merko)](https://git.io/streak-stats)
-
 <br><br>
