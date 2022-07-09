@@ -1,8 +1,9 @@
-
-<h1 align="center">Hi 👋, I'm Kennedy</h1>
-<h3 align="center">A passionate developer who loves writing code</h3>
-<p>In six words, I'd want to introduce myself. **Enthusiastic developer, music enthusiast, and cooperative colleague** That pretty about covers it up, albeit my old coworkers would have to validate the final one. I strive to be exceptional in all of my positions in life, and I thoroughly love the process. Writing code excites me, and I am now pursuing professional certification as a **FullStack Software Engineer**.</p>
 <img align="right" alt="coding" width="500" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"/>
+<h1 align="center">Hi 👋, I'm Kennedy</h1>
+<h3 align="left">A passionate developer who loves writing code</h3>
+I would describe myself in six words:**Enthusiastic developer, music lover, and cooperative colleague** That pretty much sums it up, albeit at least the final one would require confirmation from one of my former coworkers:). I strive to be exceptional in all of the roles I play in life, and I thoroughly enjoy the process. I enjoy writing code and am now pursuing professional expertise at becoming a **FullStack Software Engineer**.
+
+
 
 - 🔭 I’m currently working on **react-portfolio**
 
