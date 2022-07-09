@@ -36,10 +36,10 @@ I would describe myself in six words: enthusiastic developer, music lover, and c
 <table>
   <tr>
    <td>
-     <img src="https://github-readme-stats.vercel.app/api?username=kencodest&show_icons=true&theme=dark&hide_border=true" />
+     <img src="https://github-readme-stats.vercel.app/api?username=kencodest&show_icons=true&theme=highContrast&hide_border=true" />
    </td>
    <td>
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=kencodest&theme=hacker&hide_border=true" />    
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=kencodest&theme=highContrast&hide_border=true" />    
    </td>
  </tr>
 </table>
