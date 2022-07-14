@@ -6,7 +6,7 @@ I would describe myself in six words: enthusiastic developer, music lover, and c
 
 <br>
 
-- 🌱 I’m currently learning **React on Scrimba**
+- 🌱 I’m currently learning **C#** and **.NET**
 
 
 - 👯 I’m looking to collaborate on **JavaScript projects**
