@@ -2,8 +2,8 @@
 <h3 align="center">A passionate developer who loves writing code</h3>
 I would describe myself in six words: enthusiastic developer, music lover, and cooperative colleague. That pretty much sums it up, albeit at least the final one would require confirmation from one of my former coworkers:). I strive to be exceptional in all of the roles I play in life, and I thoroughly enjoy the process. I enjoy writing code and am now pursuing professional expertise at becoming a FullStack Software Engineer.
 
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"/>
-
+<!-- <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"/> -->
+<br>
 <br>
 
 - 🌱 I’m currently learning **C#** and **.NET**
@@ -14,7 +14,7 @@ I would describe myself in six words: enthusiastic developer, music lover, and c
 
 - 💬 Ask me about **React, JavaScript**
 
-<br><br><br><br>
+<br>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
