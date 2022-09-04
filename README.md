@@ -12,7 +12,7 @@ I would describe myself in six words: enthusiastic developer, music lover, and c
 - 👯 I’m looking to collaborate on **JavaScript projects**
 
 
-- 💬 Ask me about **React, JavaScript**
+- 💬 Ask me about **React, JavaScript, C#, .NET Core**
 
 <br>
 
