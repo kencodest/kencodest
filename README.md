@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kennedy</h1>
+<h1 align="center">Hi 👋, I am Kennedy</h1>
 <h3 align="center">A passionate developer who loves writing code</h3>
 I would describe myself in six words: enthusiastic developer, music lover, and cooperative colleague. That pretty much sums it up, albeit at least the final one would require confirmation from one of my former coworkers:). I strive to be exceptional in all of the roles I play in life, and I thoroughly enjoy the process. I enjoy writing code and am now pursuing professional expertise at becoming a FullStack Software Engineer.
 
