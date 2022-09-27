@@ -3,6 +3,7 @@
 I would describe myself in six words: enthusiastic developer, music lover, and cooperative colleague. That pretty much sums it up, albeit at least the final one would require confirmation from one of my coworkers:). I strive to be exceptional in all of the roles I play in life, and I thoroughly enjoy the process. I enjoy writing code and am now pursuing professional expertise at becoming a FullStack Software Engineer.
 
 <!-- <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"/> -->
+[![@kenmuia's Holopin board](https://holopin.io/api/user/board?user=kenmuia)](https://holopin.io/@kenmuia)
 <br>
 <br>
 
@@ -44,5 +45,3 @@ I would describe myself in six words: enthusiastic developer, music lover, and c
  </tr>
 </table>
 <br><br>
-[![@kenmuia's Holopin board](https://holopin.io/api/user/board?user=kenmuia)](https://holopin.io/@kenmuia)
-
