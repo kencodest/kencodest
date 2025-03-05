@@ -6,7 +6,7 @@ I would describe myself in six words: enthusiastic developer, music lover, and c
 <br>
 <br>
 
-- 🌱 I’m currently learning **C#** and **.NET**
+- 🌱 I’m currently learning **TypeScript** and **PlayWright**
 
 
 - 👯 I’m looking to collaborate on **JavaScript projects**
