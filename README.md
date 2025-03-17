@@ -39,9 +39,9 @@ I would describe myself in six words: enthusiastic developer, music lover, and c
    <td>
      <img src="https://github-readme-stats.vercel.app/api?username=kencodest&show_icons=true&theme=algolia&hide_border=true" />
    </td>
-   <td>
+<!--    <td>
      <img src="https://github-readme-streak-stats.herokuapp.com/?user=kencodest&theme=algolia&hide_border=true" />    
-   </td>
+   </td> -->
  </tr>
 </table>
 <br><br>
